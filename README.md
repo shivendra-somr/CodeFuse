@@ -88,7 +88,7 @@ Before getting started with CodeFuse, ensure you have the following prerequisite
 
 ### Accessing the Frontend
 
-Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to access the CodeFuse frontend.
+Open your web browser and navigate to [(https://codefuse-mu.vercel.app/)] to access the CodeFuse frontend.
 
 ### API Documentation
 
